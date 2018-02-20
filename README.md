@@ -1,4 +1,4 @@
-# Knowit fagseminar Palma høsten 2017
+# Knowit fagseminar Kiel våren 2018
 
 ## Getting started
 
@@ -6,8 +6,8 @@ Development requirements: node.js.
 
 ## Get code and install dependencies
 
-    git clone git@github.com:knowit/palma.knowit.no.git
-    cd palma.knowit.no
+    git clone git@github.com:knowit/kiel.knowit.no.git
+    cd kiel.knowit.no
     npm install
 
 ## Build
