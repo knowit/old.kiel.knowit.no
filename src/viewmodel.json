@@ -10,7 +10,7 @@
   },
   "schedules": [
     {
-      "day": "Fredag 28. April",
+      "day": "Fredag 27. April",
       "collections": [
         {
           "time": "13:00 Vi ankommer Kiel fergen",
@@ -28,7 +28,7 @@
           ]
         },
         {
-          "time": "14:20-14.45 Internøte",
+          "time": "14:20-14:45 Internmøte",
           "isBreak": true
         },
         {
@@ -36,7 +36,7 @@
           "isBreak": true
         },
         {
-          "time": "15.00 - 19.30 Workshops",
+          "time": "15:00 - 19:30 Workshops",
           "entries": [
             {
               "room": "Parliament, Congress, Bundestag & Stortinget",
@@ -48,13 +48,13 @@
       ]
     },
     {
-      "day": "Lørdag 29. April",
+      "day": "Lørdag 28. April",
       "collections": [
         {
           "time": "14:00-16:00 Plenumsforedrag",
           "entries": [
             {
-              "room": "Auditoriet",
+              "room": "Auditorium 🎥",
               "slots": [
                 "introday2",
                 "larslundby",
@@ -74,7 +74,13 @@
           "time": "16:45 - 17:15 Foredrag",
           "entries": [
             {
-              "room": "Parliament",
+              "room": "Auditorium 🎥",
+              "slots": [
+                "shakespeare"
+              ]
+            },
+            {
+              "room": "Parliament 🎥",
               "slots": [
                 "bottom"
               ]
@@ -90,12 +96,6 @@
               "slots": [
                 "bootstrap"
               ]
-            },
-            {
-              "room": "Auditorium",
-              "slots": [
-                "shakespeare"
-              ]
             }
           ]
         },
@@ -107,7 +107,13 @@
           "time": "17:30 - 18:00 Foredrag",
           "entries": [
             {
-              "room": "Parliament",
+              "room": "Auditorium 🎥",
+              "slots": [
+                "deeplearning"
+              ]
+            },
+            {
+              "room": "Parliament 🎥",
               "slots": [
                 "crypto"
               ]
@@ -123,12 +129,6 @@
               "slots": [
                 "asyncawait"
               ]
-            },
-            {
-              "room": "Auditorium",
-              "slots": [
-                "deeplearning"
-              ]
             }
           ]
         },
@@ -140,7 +140,13 @@
           "time": "18:15 - 18:45 Foredrag",
           "entries": [
             {
-              "room": "Parliament",
+              "room": "Auditorium 🎥",
+              "slots": [
+                "alexaskills"
+              ]
+            },
+            {
+              "room": "Parliament 🎥",
               "slots": [
                 "origo"
               ]
@@ -156,12 +162,6 @@
               "slots": [
                 "youtube"
               ]
-            },
-            {
-              "room": "Auditorium",
-              "slots": [
-                "alexaskills"
-              ]
             }
           ]
         },
@@ -173,7 +173,13 @@
           "time": "19.00 - 19:15 Lyntaler",
           "entries": [
             {
-              "room": "Parliament",
+              "room": "Auditorium 🎥",
+              "slots": [
+                "serverlessazure"
+              ]
+            },
+            {
+              "room": "Parliament 🎥",
               "slots": [
                 "thegathering"
               ]
@@ -189,12 +195,6 @@
               "slots": [
                 "oslokey"
               ]
-            },
-            {
-              "room": "Auditorium",
-              "slots": [
-                "serverlessazure"
-              ]
             }
           ]
         },
@@ -202,7 +202,13 @@
           "time": "19:15 - 19:30 Lyntaler",
           "entries": [
             {
-              "room": "Parliament",
+              "room": "Auditorium 🎥",
+              "slots": [
+                "astronaut"
+              ]
+            },
+            {
+              "room": "Parliament 🎥",
               "slots": [
                 "clibank"
               ]
@@ -218,17 +224,20 @@
               "slots": [
                 "oslokey_react_native"
               ]
-            },
-            {
-              "room": "Auditorium",
-              "slots": [
-                "astronaut"
-              ]
             }
           ]
         },
         {
           "time": "20:00 Middag",
+          "isBreak": true
+        }
+      ]
+    },
+    {
+      "day": "Søndag 29. April",
+      "collections": [
+        {
+          "time": "10:00 Vi ankommer Oslo",
           "isBreak": true
         }
       ]
